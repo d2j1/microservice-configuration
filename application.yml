@@ -1,6 +1,6 @@
 spring:
   application:
-    name: verify_service
+    name: verify_this_service
 
 
 eureka:
