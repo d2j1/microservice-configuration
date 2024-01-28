@@ -1,3 +1,8 @@
+spring:
+  application:
+    name: verify_prod_service
+
+
 eureka:
   client:
     fetch-registry: true
